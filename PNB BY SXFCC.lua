@@ -5,5 +5,7 @@ return {
       333172,
       738077, -- Kaaf
       887206, --  Kaaf alt INVENTOR
-      689533 --urexas
+      689533, --urexas
+      380470, -- mammedoff
+      829938 -- mammedoff add uid
 }
