@@ -8,5 +8,6 @@ return {
       689533, --urexas
       380470, -- mammedoff
       829938, -- mammedoff add uid
-      2806 -- wijenlo add uid
+      2806, -- wijenlo add uid
+      94626 -- GRAY
 }
