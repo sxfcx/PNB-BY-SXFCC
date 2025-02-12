@@ -9,5 +9,6 @@ return {
       380470, -- mammedoff
       829938, -- mammedoff add uid
       2806, -- wijenlo add uid
-      94626 -- GRAY
+      94626, -- GRAY
+      912074 -- cylus
 }
