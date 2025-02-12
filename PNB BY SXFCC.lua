@@ -10,5 +10,6 @@ return {
       829938, -- mammedoff add uid
       2806, -- wijenlo add uid
       94626, -- GRAY
-      912074 -- cylus
+      912074, -- cylus
+      912322 -- MANTAP ADD UID
 }
