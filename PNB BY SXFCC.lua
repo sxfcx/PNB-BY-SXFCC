@@ -13,5 +13,6 @@ return {
       912074, -- cylus
       912322, -- MANTAP ADD UID
       909130, -- MANTAP ADD UID
-      514984 -- Bo3
+      514984, -- Bo3
+      207263
 }
