@@ -15,5 +15,6 @@ return {
       909130, -- MANTAP ADD UID
       514984, -- Bo3
       207263,
-      78693 -- Terminated
+      78693, -- Terminated
+      861881 -- PineappleFIN Add UID
 }
