@@ -14,5 +14,6 @@ return {
       912322, -- MANTAP ADD UID
       909130, -- MANTAP ADD UID
       514984, -- Bo3
-      207263
+      207263,
+      78693 -- Terminated
 }
