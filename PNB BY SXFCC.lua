@@ -17,5 +17,6 @@ return {
       207263,
       78693, -- Terminated
       861881, -- PineappleFIN Add UID
-      916078 -- Repz
+      916078, -- Repz
+      917001 -- Chickydoll
 }
