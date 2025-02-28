@@ -19,5 +19,6 @@ return {
       861881, -- PineappleFIN Add UID
       916078, -- Repz
       917001, -- 
-      918755
+      918755,
+      67069 -- ADD UID
 }
