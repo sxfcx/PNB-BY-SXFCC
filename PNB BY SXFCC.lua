@@ -20,5 +20,6 @@ return {
       916078, -- Repz
       917001, -- 
       918755,
-      67069 -- ADD UID
+      67069, -- ADD UID
+      132545 -- ohhmyrell
 }
