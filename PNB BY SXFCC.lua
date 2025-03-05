@@ -21,5 +21,6 @@ return {
       917001, -- 
       918755,
       67069, -- ADD UID
-      132545 -- ohhmyrell
+      132545, -- ohhmyrell
+      13887 -- dinartod
 }
