@@ -24,5 +24,7 @@ return {
       132545, -- ohhmyrell
       13887, -- dinartod
       264683, -- Pattimuracps
-      508184 -- Makan
+      508184, -- Makan
+      922873 -- Daoza
+      
 }
