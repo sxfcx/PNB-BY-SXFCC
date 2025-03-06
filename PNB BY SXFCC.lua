@@ -23,5 +23,6 @@ return {
       67069, -- ADD UID
       132545, -- ohhmyrell
       13887, -- dinartod
-      264683 -- Pattimuracps
+      264683, -- Pattimuracps
+      508184 -- Makan
 }
