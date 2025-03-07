@@ -26,6 +26,7 @@ return {
       264683, -- Pattimuracps
       508184, -- Makan
       922873, -- Daoza
-      922123
+      922123,
+      922877 -- Daoza
       
 }
