@@ -25,6 +25,7 @@ return {
       13887, -- dinartod
       264683, -- Pattimuracps
       508184, -- Makan
-      922873 -- Daoza
+      922873, -- Daoza
+      922123
       
 }
