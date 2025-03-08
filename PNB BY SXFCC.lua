@@ -28,6 +28,8 @@ return {
       922873, -- Daoza
       922123,
       922877, -- Daoza
-      911023
+      911023,
+      458552, -- Drians
+      373174 -- Drians add uid
       
 }
