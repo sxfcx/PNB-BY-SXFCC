@@ -32,6 +32,7 @@ return {
       458552, -- Drians
       373174, -- Drians add uid
       500062, -- Pemain Illegal
-      898796 -- Eynish
+      898796, -- Eynish
+      926888 -- Itermitass
       
 }
