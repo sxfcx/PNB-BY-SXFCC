@@ -33,6 +33,7 @@ return {
       373174, -- Drians add uid
       500062, -- Pemain Illegal
       898796, -- Eynish
-      919145 -- Vel
+      919145, -- Vel
+      919289 -- Vel add uid
       
 }
