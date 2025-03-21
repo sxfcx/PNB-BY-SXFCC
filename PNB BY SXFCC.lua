@@ -34,6 +34,7 @@ return {
       500062, -- Pemain Illegal
       898796, -- Eynish
       919145, -- Vel
-      919289 -- Vel add uid
+      919289, -- Vel add uid
+      470650 -- Ppp
       
 }
