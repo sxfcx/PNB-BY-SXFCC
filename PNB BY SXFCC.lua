@@ -36,6 +36,7 @@ return {
       919145, -- Vel
       919289, -- Vel add uid
       470650, -- Ppp
-      902259 -- Vann
+      902259, -- Vann
+      932324 -- Faisal
       
 }
