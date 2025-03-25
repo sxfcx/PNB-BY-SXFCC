@@ -39,6 +39,7 @@ return {
       902259, -- Vann
       932324, -- Faisal
       907136, -- Dann
-      789653 -- Jaroot
+      789653, -- Jaroot
+      50155 -- SLIMED
       
 }
