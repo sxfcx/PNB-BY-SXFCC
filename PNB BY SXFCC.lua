@@ -40,6 +40,7 @@ return {
       932324, -- Faisal
       907136, -- Dann
       789653, -- Jaroot
-      50155 -- SLIMED
+      50155, -- SLIMED
+      470669 -- ppp add uid
       
 }
