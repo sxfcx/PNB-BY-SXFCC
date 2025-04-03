@@ -41,6 +41,7 @@ return {
       907136, -- Dann
       789653, -- Jaroot
       50155, -- SLIMED
-      470669 -- ppp add uid
+      470669, -- ppp add uid
+      932156 -- Yapping
       
 }
