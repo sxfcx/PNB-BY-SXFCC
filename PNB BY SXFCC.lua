@@ -43,6 +43,7 @@ return {
       50155, -- SLIMED
       470669, -- ppp add uid
       932156, -- Yapping
-      719805 -- dika
+      719805, -- dika
+      956736 -- dika add UID
       
 }
